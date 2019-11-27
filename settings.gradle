@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='McClellan_Duncan_HW3'
